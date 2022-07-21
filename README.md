@@ -30,10 +30,13 @@ Now to change this to lets say 1.12.40, all we would have to do is change it fro
 To do this you highlight the number you are trying to change like this
 ![image](https://user-images.githubusercontent.com/55319774/180185342-c4daf967-77b0-4b90-8e21-efab79e90cb2.png)
 I highlighted "1" and if I want to change that to the number 2 then all I do is press 2 and it will change to this 
+
 ![image](https://user-images.githubusercontent.com/55319774/180185642-50b15f45-2564-4979-ade7-9302428ccf50.png)
+
 As you can see the "2" is highlighted in red, this indicates you changed something
 
 Now you do that same process for the rest of the numbers you are trying to change like what I did below
+
 ![image](https://user-images.githubusercontent.com/55319774/180186240-04ad04e1-3959-47b5-bdb2-73e64e0c8e13.png)
 
 Once you are done, click on File then Save As, navigate to your client folder and save it there, you can choose to name it what you want or keep the same name legouniverse.exe, keep in mind that will replace your already existing legouniverse.exe if you haven't backed it up somewhere else
@@ -41,6 +44,7 @@ Once you are done, click on File then Save As, navigate to your client folder an
 
 You can now navigate to your updated legouniverse.exe file (or whatever you named it) and open it
 ![image](https://user-images.githubusercontent.com/55319774/180187440-1aee793a-6fb1-4875-9ab0-a7580e5f21d2.png)
+
 I named mine legouniverse_test.exe for this tutorial
 
 Click on it and once it opens you will see the Client Version you changed it to
