@@ -1,4 +1,4 @@
-# DLU_HexEditing
+# LU_HexEditing
 Tutorial on how to Hex Edit the Client Version and NET Version (Incomplete)
 
 # What you will need
